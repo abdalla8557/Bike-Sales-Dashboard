@@ -1,7 +1,7 @@
 # Bike-Sales-Dashboard
 
 This interactive dashboard was developed to analyze bike purchasing patterns across different customer segments.
-It includes key visual indicators (KPIs) and dynamic slicers such as education level, geographic region, and marital status, allowing users to filter and explore data easily and effectively. The dashboard provides a comprehensive view to understand customer behavior and identify major sales trends.
+It includes key visual indicators  and dynamic slicers such as education level, geographic region, and marital status, allowing users to filter and explore data easily and effectively. The dashboard provides a comprehensive view to understand customer behavior and identify major sales trends.
 
  Key Insights
 The average income per purchase is higher among males ($60,412) compared to females ($53,440).
